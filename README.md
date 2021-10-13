@@ -13,4 +13,6 @@ The exercise sheets are in the `exercises` directory.
 
 ## Practical notebooks
 
-The jupyter notebooks are in the `notebooks` directory
+The jupyter notebooks are in the
+[`notebooks`](https://github.com/Statistics-with-Python/statistics-course-material/tree/main/notebooks)
+directory.
