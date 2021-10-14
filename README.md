@@ -7,7 +7,7 @@ taught at Oxford Internet Institute, University of Oxford.
 
 The exercise sheets are in the `exercises` directory.
 
-## Practical notebooks
+## Practical jupyter notebooks
 
 The jupyter notebooks are in the
 [`notebooks`](https://github.com/Statistics-with-Python/statistics-course-material/tree/main/notebooks)
