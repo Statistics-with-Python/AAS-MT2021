@@ -1,11 +1,7 @@
-# Applied Analytical Statistics
+# Applied Analytical Statistics, MT2021
 
 This repository contains course material for Applied Analytical Statistics 2021
 taught at Oxford Internet Institute, University of Oxford.
-
-## Exercise sheets
-
-The exercise sheets are in the `exercises` directory.
 
 ## Practical jupyter notebooks
 
